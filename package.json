@@ -1,6 +1,6 @@
 {
-  "name": "@Antoine007/prettier",
-  "version": "1.0.0",
+  "name": "antoine-prettier",
+  "version": "1.0.6",
   "description": "Amazing Prettier config",
   "main": "index.json",
   "repository": "git@github.com:Antoine007/prettier.git",

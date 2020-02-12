@@ -5,7 +5,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @Antoine007/prettier
+$ yarn add --dev antoine-prettier
 ```
 
 **Edit `package.json`**:
@@ -13,6 +13,6 @@ $ yarn add --dev @Antoine007/prettier
 ```jsonc
 {
   // ...
-  "prettier": "@Antoine007/prettier"
+  "prettier": "antoine-prettier"
 }
 ```
