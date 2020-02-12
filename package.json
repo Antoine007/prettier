@@ -1,0 +1,9 @@
+{
+  "name": "@Antoine007/prettier",
+  "version": "1.0.0",
+  "description": "Amazing Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:Antoine007/prettier.git",
+  "author": "Antoine Magny <mr.magny@icloud.com>",
+  "license": "MIT"
+}
